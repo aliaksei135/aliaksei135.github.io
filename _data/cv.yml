@@ -19,8 +19,8 @@
       year: 2017
       description:
         - First Class Honours
-        - Modules include: Aerodynamics, Astronautics, Flight Mechanics, Systems Design and Computing
-        - Societies include: Formula Student, Human Powered Aircraft, Robotics Society and Gliding Society
+        - "Modules include: Aerodynamics, Astronautics, Flight Mechanics, Systems Design and Computing"
+        - "Societies include: Formula Student, Human Powered Aircraft, Robotics Society and Gliding Society"
     - title: A-Levels
       institution: Leighton Park School, Reading, UK
       year: 2015
@@ -81,4 +81,7 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Gliding, 3D Printing, Running, MicroController Projects
+    - Gliding
+    - 3D Printing
+    - Running 
+    - MicroController Projects
