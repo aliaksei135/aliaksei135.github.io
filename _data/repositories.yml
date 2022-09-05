@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - aliaksei135
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - aliaksei135/seedpod_ground_risk
+  - aliaksei135/FEEG2001-UAV
+  - aliaksei135/delaze
+  - aliaksei135/METARUtils
+  - aliaksei135/telecommand-server
