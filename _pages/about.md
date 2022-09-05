@@ -7,7 +7,7 @@ subtitle: University of Southampton
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Boldrewood Campus</p>
     <p>Burgess Road</p>
@@ -22,4 +22,4 @@ Pursuing a PhD based around the quantitative analysis of risk for UAS ("drones")
 
 Very likely to be flying, you can find me in the air flying the [University glider](https://sugc.net/) [here](https://glideandseek.com/?aircraft=DD508A) or you can peruse my previous cross-country flights [here](https://www.weglide.org/user/11591).
 
-When the weather isn't playing ball, I'll probably be tinkering with my [Ender 5 Pro](https://www.crealityofficial.co.uk/products/ender-5-pro-3d-printer) 3D printer, [out for a run](https://www.strava.com/athletes/26067436) or fixing whatever I have broken on my HomeLab server...
+When the weather isn't playing ball, I'll probably be tinkering with my [Ender 5 Pro](https://www.crealityofficial.co.uk/products/ender-5-pro-3d-printer) 3D printer, [out for a run](https://www.strava.com/athletes/26067436) or fixing whatever I've broken on my HomeLab...
