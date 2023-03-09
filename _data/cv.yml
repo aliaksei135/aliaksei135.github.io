@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Aliaksei Pilko
-    - name: Languages
-      value: English, Russian
 
 - title: Education
   type: time_table
